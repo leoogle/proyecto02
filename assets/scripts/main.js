@@ -33,7 +33,7 @@ closes.forEach(function(close){
         content.classList.remove("fadeInRight");
         content.classList.add("fadeOutRight");
         setTimeout(() => {
-            location.href="/"
+            location.href="../index.html"
         }, 700);
     })
 })
@@ -49,7 +49,7 @@ aindexs1.forEach(function(aindex1){
         content.classList.remove("fadeInDown");
         content.classList.add("fadeOutUp");
         setTimeout(() => {
-            location.href="/forbes/1.html"
+            location.href="./forbes/1.html"
         }, 700);
 
         
@@ -66,7 +66,7 @@ aindexs2.forEach(function(aindex2){
         content.classList.remove("fadeInDown");
         content.classList.add("fadeOutUp");
         setTimeout(() => {
-            location.href="/forbes/2.html"
+            location.href="./forbes/2.html"
         }, 700);
 
         
@@ -83,7 +83,7 @@ aindexs3.forEach(function(aindex3){
         content.classList.remove("fadeInDown");
         content.classList.add("fadeOutUp");
         setTimeout(() => {
-            location.href="/forbes/3.html"
+            location.href="./forbes/3.html"
         }, 700);
 
         
@@ -100,7 +100,7 @@ aindexs4.forEach(function(aindex4){
         content.classList.remove("fadeInDown");
         content.classList.add("fadeOutUp");
         setTimeout(() => {
-            location.href="/forbes/4.html"
+            location.href="./forbes/4.html"
         }, 700);
 
         
@@ -117,7 +117,7 @@ aindexs5.forEach(function(aindex5){
         content.classList.remove("fadeInDown");
         content.classList.add("fadeOutUp");
         setTimeout(() => {
-            location.href="/forbes/5.html"
+            location.href="./forbes/5.html"
         }, 700);
 
         
@@ -134,7 +134,7 @@ aindexs6.forEach(function(aindex6){
         content.classList.remove("fadeInDown");
         content.classList.add("fadeOutUp");
         setTimeout(() => {
-            location.href="/forbes/6.html"
+            location.href="./forbes/6.html"
         }, 700);
 
         
@@ -151,7 +151,7 @@ aindexs7.forEach(function(aindex7){
         content.classList.remove("fadeInDown");
         content.classList.add("fadeOutUp");
         setTimeout(() => {
-            location.href="/forbes/7.html"
+            location.href="./forbes/7.html"
         }, 700);
 
         
@@ -168,7 +168,7 @@ aindexs8.forEach(function(aindex8){
         content.classList.remove("fadeInDown");
         content.classList.add("fadeOutUp");
         setTimeout(() => {
-            location.href="/forbes/8.html"
+            location.href="./forbes/8.html"
         }, 700);
 
         
@@ -185,7 +185,7 @@ aindexs9.forEach(function(aindex9){
         content.classList.remove("fadeInDown");
         content.classList.add("fadeOutUp");
         setTimeout(() => {
-            location.href="/forbes/9.html"
+            location.href="./forbes/9.html"
         }, 700);
 
         
@@ -202,7 +202,7 @@ aindexs10.forEach(function(aindex10){
         content.classList.remove("fadeInDown");
         content.classList.add("fadeOutUp");
         setTimeout(() => {
-            location.href="/forbes/10.html"
+            location.href="./forbes/10.html"
         }, 700);
 
         
@@ -219,7 +219,7 @@ aindexs11.forEach(function(aindex11){
         content.classList.remove("fadeInDown");
         content.classList.add("fadeOutUp");
         setTimeout(() => {
-            location.href="/forbes/11.html"
+            location.href="./forbes/11.html"
         }, 700);
 
         
@@ -236,7 +236,7 @@ aindexs12.forEach(function(aindex12){
         content.classList.remove("fadeInDown");
         content.classList.add("fadeOutUp");
         setTimeout(() => {
-            location.href="/forbes/12.html"
+            location.href="./forbes/12.html"
         }, 700);
 
         
@@ -253,7 +253,7 @@ aindexs13.forEach(function(aindex13){
         content.classList.remove("fadeInDown");
         content.classList.add("fadeOutUp");
         setTimeout(() => {
-            location.href="/forbes/13.html"
+            location.href="./forbes/13.html"
         }, 700);
 
         
@@ -270,7 +270,7 @@ aindexs14.forEach(function(aindex14){
         content.classList.remove("fadeInDown");
         content.classList.add("fadeOutUp");
         setTimeout(() => {
-            location.href="/forbes/14.html"
+            location.href="./forbes/14.html"
         }, 700);
 
         
@@ -287,7 +287,7 @@ aindexs15.forEach(function(aindex15){
         content.classList.remove("fadeInDown");
         content.classList.add("fadeOutUp");
         setTimeout(() => {
-            location.href="/forbes/15.html"
+            location.href="./forbes/15.html"
         }, 700);
 
         
